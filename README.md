@@ -15,6 +15,6 @@ creator: [curve](https://github.com/curvefi)
 
 ```
 python3 -m venv venv
-souce venv/bin/activate
+source venv/bin/activate
 pip3 install numpy matplotlib
 ```
